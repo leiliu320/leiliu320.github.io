@@ -23,7 +23,7 @@ repository               : "leiliu320/leiliu320.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Foto personal.jpg"
   name             : "Lei Liu"
   pronouns         : # example: "she/her"  
   bio              : "Predoctoral Researcher in Linguisticsr"
@@ -61,9 +61,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/pabloliu_320/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/lei-liu-712822243/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
