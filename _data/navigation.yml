@@ -23,5 +23,7 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
+  
+  - title: "More about me"
+    url: /more-about-me/  
 
